@@ -1,9 +1,12 @@
-#Laravel 10 | PHP 8.2git init  
+# # Exemplo de Dropdown com Search Box usando Livewire
 
-#configure database (.env database to sqlite)  
+#Laravel 10 | #PHP 8.2 | #Livewire #LiveSearch
 
-composer update  
+**INSTALAÇÃO**
 
-php artisan migrate  
+1. configure sua database para sqlite
+2. Execute no terminal
 
-php artisan db:seed list2  
+   `composer update`\
+`php artisan migrate`\
+`php artisan db:seed list2`
