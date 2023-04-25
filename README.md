@@ -1,6 +1,6 @@
 # # Exemplo de Dropdown com Search Box usando Livewire
 
-#Laravel 10 | #PHP 8.2 | #Livewire #LiveSearch
+#Laravel 10 | #PHP 8.2 | #Livewire #LiveSearch #Dropdown
 
 **INSTALAÇÃO**
 
